@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
+<h1 align="center">I'm doing a associate degree in Computer Programming ✍️</h1>
+<h1 align="center">I'm also learning on Frontend Web Development 🎯💻</h1>
 <h3 align="center">A passionate Junior frontend developer from Turkey</h3>
 
 - 💬 Ask me about **HTML-CSS - Python - React - Javascipt - SASS - C# - MYSQL -**
