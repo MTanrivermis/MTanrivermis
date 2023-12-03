@@ -92,19 +92,19 @@
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliDurul&theme=transparent&border_radius=4.4&exclude_days=Sun&card_width=390)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MTanrivermis&theme=transparent&border_radius=4.4&exclude_days=Sun&card_width=390)](https://git.io/streak-stats)
 </details>
 
 <details>
 <summary><b>🏆 Github Trophies</b></summary>
 <br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=AliDurul&theme=discord" alt="MelvinAguilar" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=MTanrivermis&theme=discord" alt="MelvinAguilar" />
 </details>
 
 <details>
 <summary><b>⚡ Github Public Stats</b></summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=AliDurul&show_icons=true&theme=radical&count_private=true" alt="AliDurul" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliDurul&layout=compact&theme=radical" alt="AliDurul" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=MTanrivermis&show_icons=true&theme=radical&count_private=true" alt="Mehmet Tanrıvermiş" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTanrivermis&layout=compact&theme=radical" alt="Mehmet Tanrıvermiş" height="165">
 </details>
   
   
