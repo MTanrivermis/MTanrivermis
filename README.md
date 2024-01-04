@@ -17,7 +17,7 @@
   
 - I’m currently working on **becoming a Full-Stack Developer**.
   
-- Ask me anything about **React - Javascript - HTML5, CSS3 - Third party CSS libraries**.
+- Ask me anything about **React - JavaScript - HTML5, CSS3 - Third party CSS libraries - NodeJs - ExpressJs - MongoDB - SQL**.
 
 ### 📬 Connect with me: 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtanrivermis/)
@@ -33,7 +33,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,materialui,tailwind,sass,styledcomponents,py,java,linux,mysql,postman,github,vercel,vite,git,vscode,figma&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,materialui,tailwind,sass,styledcomponents,py,java,linux,mysql,postman,github,vercel,vite,git,vscode,figma&perline=15" />
   </a>
 </p>
 
