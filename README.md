@@ -45,7 +45,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[FullStack-Stock-App](https://fullstack-stock-app.vercel.app)| React, Material UI, Redux-Toolkit, DataBase| ![Video_231203222929](https://github.com/MTanrivermis/BLOG_APP_MERN_STACK/assets/75450069/0209a267-d597-46c5-bde0-d4794e5148e3)
+[FullStack-Stock-App](https://fullstack-stock-app.vercel.app)| React, Material UI, Redux-Toolkit, DataBase| ![stockapp](https://github.com/MTanrivermis/stock_frontend/blob/main/Video_240104225806.gif)
 [Firebase-Movie-App](https://firebase-movie-app-two.vercel.app)| React, Tailwind CSS, Context Api, ApiServer|![movieapp](https://github.com/AliDurul/Firebase-Movie-App/assets/80897590/89c7bdcd-c9f4-4c47-bbd3-f918e1a09de5)
 [Lee-Library](https://tailwind-shopping-cartt.vercel.app)| React, StyledComponent CSS, Context Api, ApiServer|![LeeLibrirary](https://github.com/AliDurul/Lee-Library/assets/80897590/76766085-6395-4bbd-a285-6acbaab5bedc)
 [Shopping-Cart](https://tailwind-shopping-cartt.vercel.app)| React, Tailwind CSS, Context Api, ApiServer|![shoppingCart](https://github.com/AliDurul/Shopping-Cart/assets/80897590/d492d45f-b971-4a68-817e-a9d18a53cdbb)
