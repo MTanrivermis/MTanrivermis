@@ -53,7 +53,7 @@
 [Random-User-Generator](https://react-random-user-app-midnight.netlify.app/)| React, Bootstrao, Js|![randomUser](https://github.com/MTanrivermis/React_Random_User_App/blob/main/randomuserapp.gif)
 [NBA-Legends](https://nbalegends-card.netlify.app/)| React, Bootstrap, Api-Server | ![nbaLegends](https://github.com/MTanrivermis/React_NBA_Card_Project/blob/main/nbaapp.gif)
 [Typescript-Todo-App]()| Typescript,  React, Material UI, Js, Mock-Api | ![typescripttodo]()
-[Horoscope-App](https://app-horoscope.vercel.app)| React - Sass - ApiServer | ![horroscope](https://github.com/AliDurul/Horoscope-App/assets/80897590/8e00dbaf-e333-4da9-a050-a0c73d211765)
+[Horoscope-App]()| React - Sass - ApiServer | ![horroscope](https://github.com/AliDurul/Horoscope-App/assets/80897590/8e00dbaf-e333-4da9-a050-a0c73d211765)
 [Tutorial App](https://react-tutorials-app.netlify.app/)|Booststrap, React, Database-Server, Javascript |![tutorialapp](https://github.com/MTanrivermis/React_Tutorial_App/blob/main/tutorialapp.gif)
 [Product-List]()| React, bootstrap, Js|![productList]()
 [Image-Gallery](https://react-photogallery.vercel.app)| React, Bootstrap, Api-Server |![photo gallery](https://github.com/AliDurul/Photo-Gallery/assets/80897590/7399af0f-9561-4e5c-969f-badd1244ebdc)
