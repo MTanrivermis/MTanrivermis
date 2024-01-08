@@ -50,7 +50,7 @@
 [Library-App](https://library-app-bvkh.vercel.app/)| React, StyledComponent CSS, Context Api, ApiServer|![LeeLibrirary](https://github.com/MTanrivermis/Library_App/blob/main/libraryapp.gif)
 [Appoinment-App](https://appointment-app-lac.vercel.app/) |    React-Booststrap,  React, Javascript, Html, Css | ![appointmentApp](https://github.com/MTanrivermis/Appointment_App/blob/main/appointmentApp.gif)
 [Router Intro Project](https://react-router-app-rouge.vercel.app/) |  Booststrap, React, React Router , Javascript, Api-Server,  Html, Css | ![introRouter](https://github.com/MTanrivermis/React_Router_App/blob/main/reactrouterapp.gif)
-[Random-User-Generator](https://random-user-generator-app.vercel.app)| React, Bootstrao, Js|![randomUser](https://github.com/AliDurul/Random-User-Generator-App/assets/80897590/9ba3910e-2aa0-4b81-ad5d-6df206ae02cd)
+[Random-User-Generator](https://react-random-user-app-midnight.netlify.app/)| React, Bootstrao, Js|![randomUser](https://github.com/MTanrivermis/React_Random_User_App/blob/main/randomuserapp.gif)
 [NBA-Legends](https://nba-legend.vercel.app)| React, Bootstrap, Api-Server | ![nbaLegends](https://github.com/AliDurul/NBA-Legends/assets/80897590/1acc2dcb-3705-4ea4-8b90-554716ee596c)
 [Typescript-Todo-App]()| Typescript,  React, Material UI, Js, Mock-Api | ![typescripttodo](https://github.com/AliDurul/TypeScript-Todo-App/assets/80897590/007bc20a-17fa-4ea1-badc-cd7d60b4de57)
 [Horoscope-App](https://app-horoscope.vercel.app)| React - Sass - ApiServer | ![horroscope](https://github.com/AliDurul/Horoscope-App/assets/80897590/8e00dbaf-e333-4da9-a050-a0c73d211765)
