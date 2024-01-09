@@ -67,7 +67,6 @@
 [Crypto-Coin-App](https://crypto-coin-app-drab.vercel.app/)|Javascript, Css, Html, Api-Server| ![cyrptomoney](https://github.com/MTanrivermis/Crypto-Coin-App/blob/main/CryptoApp.gif)
 [Js Todo App](https://javascript-todo-app-seven.vercel.app)|Javascript, Css, Html, Local Storage| ![javascriptTodo](https://github.com/AliDurul/Javascript-Todo-App/assets/80897590/6808c253-75fd-4bb6-b98a-46256930a4d4)
 [Rest-Countries App](https://rest-countries-nine-zeta.vercel.app)|Javascript, Css, Html, Api-Server,  Bootstrap| ![countries](https://github.com/AliDurul/Rest-Countries/assets/80897590/63ab9153-6477-443d-a1bd-5c0f07a088f8)
-[Notes App](https://notes-app-mu.vercel.app)|Javascript, Css, Html, Local Storage| ![notesApp](https://github.com/AliDurul/Notes-App/assets/80897590/7b5b7515-e6e9-47c8-b62d-afd82d885f35)
 [Several Javascript Intro Projects](https://github.com/AliDurul/JS-Projects-Beginner-Level)| Html, Css, Javascript| ![jsbeginnerprojects](https://github.com/AliDurul/JS-Projects-Beginner-Level/assets/80897590/05af26fb-9db9-48e4-9e68-2051c984a73d)
 [Portfolio-Example](https://portfolio-example-iota.vercel.app/)| Html - Css  | ![portfolio-website](https://github.com/AliDurul/Portfolio-Example/assets/80897590/cddbe6ea-89cf-419e-8535-2b81ce55ecbe)
 [Eduford-University-Clone](https://eduford-universtiy-clone.vercel.app)| Html - Css | ![Eduford-University](https://github.com/AliDurul/Eduford-Universtiy-Clone/assets/80897590/54167453-7432-4e25-baf0-eaa5c66728d0)
