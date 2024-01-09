@@ -65,6 +65,7 @@
 [API Location-App](https://api-location-chi.vercel.app/)| React, Context Api, Styled Components, API| ![introbootstrap](https://github.com/MTanrivermis/API_Location/blob/main/Ip%20Address%20Country%20Info.gif)
 [Bootstrap-Intro-Webpage]()| Html, Bootstrap, Css| ![introbootstrap]()
 [Crypto-Coin-App](https://crypto-coin-app-drab.vercel.app/)|Javascript, Css, Html, Api-Server| ![cyrptomoney](https://github.com/MTanrivermis/Crypto-Coin-App/blob/main/CryptoApp.gif)
+[QR-Code-App](https://qr-code-generator-ashen-one.vercel.app/)|Javascript, Css, Html, | ![QR Code](https://github.com/MTanrivermis/QR_Code_Generator/blob/main/QRcode%20Jenerate.gif)
 [Js Todo App](https://javascript-todo-app-seven.vercel.app)|Javascript, Css, Html, Local Storage| ![javascriptTodo](https://github.com/AliDurul/Javascript-Todo-App/assets/80897590/6808c253-75fd-4bb6-b98a-46256930a4d4)
 [Rest-Countries App](https://rest-countries-nine-zeta.vercel.app)|Javascript, Css, Html, Api-Server,  Bootstrap| ![countries](https://github.com/AliDurul/Rest-Countries/assets/80897590/63ab9153-6477-443d-a1bd-5c0f07a088f8)
 [Several Javascript Intro Projects](https://github.com/AliDurul/JS-Projects-Beginner-Level)| Html, Css, Javascript| ![jsbeginnerprojects](https://github.com/AliDurul/JS-Projects-Beginner-Level/assets/80897590/05af26fb-9db9-48e4-9e68-2051c984a73d)
