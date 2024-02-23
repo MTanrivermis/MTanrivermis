@@ -10,7 +10,7 @@
   </ul>
 </div>
 
-<p>  Hello, and welcome to my GitHub profile! I'm a computer programmer student with a passion for web programming. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. </p>
+<p>  Hello, and welcome to my GitHub profile! I'm a computer programmer with a passion for web programming. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. </p>
    
 
  <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture> <br>
