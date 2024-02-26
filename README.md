@@ -69,7 +69,6 @@
 [Js Calculator](https://github.com/MTanrivermis/Calculator)|Javascript, Css, Html| ![javascriptTodo](https://github.com/MTanrivermis/Calculator/blob/main/Calculateapp.gif)
 [Js Todo App](https://pure-js-todo-app-livid.vercel.app/)|Javascript, Css, Html, Local Storage| ![javascriptTodo](https://github.com/MTanrivermis/Pure_JS_Todo_App/blob/main/Video_240110004852.gif)
 [Rest-Countries App](https://select-countries-info.vercel.app/)|Javascript, Css, Html, Api-Server,  Bootstrap| ![countries](https://github.com/MTanrivermis/Select-Countries-Info/blob/main/selectcountriesinfo.gif)
-[Portfolio-Example](https://portfolio-example-iota.vercel.app/)| Html - Css  | ![portfolio-website](https://github.com/AliDurul/Portfolio-Example/assets/80897590/cddbe6ea-89cf-419e-8535-2b81ce55ecbe)
 [Eduford-University-Clone](https://eduford-universtiy-clone.vercel.app)| Html - Css | ![Eduford-University](https://github.com/AliDurul/Eduford-Universtiy-Clone/assets/80897590/54167453-7432-4e25-baf0-eaa5c66728d0)
 [Several Website Designs Examples](https://github.com/AliDurul/Website-Page-Designs)| Html, Css| ![websiteDesigns](https://github.com/AliDurul/Website-Page-Designs/assets/80897590/19048f71-fe84-4132-bd2a-e9a2c5582854)
  
