@@ -45,7 +45,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[(MERN)FullStack-Stock-App](https://mern-stack-stock-app-x9fc.vercel.app/)| React, Material UI, Redux-Toolkit, NodeJs, Express Js, MongoDB| ![stockapp](https://github.com/MTanrivermis/stock_frontend/blob/main/Video_240104225806.gif)
+[(MERN)FullStack-Stock-App](https://mern-stack-stock-app-x9fc.vercel.app/)| React, Material UI, Redux-Toolkit, NodeJs, Express Js, MongoDB| ![stockapp](https://github.com/MTanrivermis/MernStack_Stock-App/blob/main/stockapp.gif)
 [(MERN)FullStack-Blog-App](https://blog-app-mern-stack-gamma.vercel.app/about)| React, Material UI, Redux-Toolkit, NodeJs, Express Js, MongoDB| ![stockapp](https://github.com/MTanrivermis/BLOG_APP_MERN_STACK/blob/main/BlogappMERN.gif)
 [Firebase-Movie-App](https://movie-app-swart-five.vercel.app/)| React, Tailwind CSS, Context Api, ApiServer|![movieapp](https://github.com/MTanrivermis/movie-app/blob/main/movieapp.gif)
 [Library-App](https://library-app-bvkh.vercel.app/)| React, StyledComponent CSS, Context Api, ApiServer|![LeeLibrirary](https://github.com/MTanrivermis/Library_App/blob/main/libraryapp.gif)
