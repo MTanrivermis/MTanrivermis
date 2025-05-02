@@ -17,7 +17,7 @@
   
 - I’m currently working on **becoming a Full-Stack Developer**.
   
-- Ask me anything about **React - JavaScript - HTML5, CSS3 - Third party CSS libraries - NodeJs - ExpressJs - MongoDB - SQL**.
+- Ask me anything about **React - JavaScript - NextJS - HTML5, CSS3 - Third party CSS libraries - NodeJs - ExpressJs - MongoDB - SQL**.
 
 ### 📬 Connect with me: 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtanrivermis/)
