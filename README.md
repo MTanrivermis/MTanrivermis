@@ -105,10 +105,6 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=MTanrivermis&show_icons=true&theme=radical&count_private=true" alt="Mehmet Tanrıvermiş" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTanrivermis&layout=compact&theme=radical" alt="Mehmet Tanrıvermiş" height="165">
 </details>
-![GitHub followers](https://img.shields.io/github/followers/kullaniciadiniz?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/kullaniciadiniz?affiliations=OWNER%2CCOLLABORATOR&style=social)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadiniz&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciadiniz&show_icons=true)
 
   
   
